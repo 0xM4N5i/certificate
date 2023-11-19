@@ -14,4 +14,5 @@ We have tow type of fire wall :
 host based : are software application that filter traffic entering and exiting a host machine .
 
 1 - Network firewalls :  are hardware devices that filter traffic between networks
-2 - 
+2 - host based firewall  : are a software his work like a hardware device .
+
